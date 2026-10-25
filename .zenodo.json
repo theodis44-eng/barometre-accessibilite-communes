@@ -1,0 +1,27 @@
+{
+  "upload_type": "dataset",
+  "title": "Baromètre de l'accessibilité des sites des communes françaises de 2 000 habitants et plus (septembre 2026)",
+  "version": "2026-09",
+  "publication_date": "2026-10-05",
+  "language": "fra",
+  "creators": [
+    { "name": "Claren", "affiliation": "CLAREN SAS" }
+  ],
+  "description": "<p>Lecture automatisée, le 27 septembre 2026, de 5 202 sites de communes françaises de 2 000 habitants et plus (5 469 communes recensées, 260 sites non lus, 7 portails exclus). Pour chaque site, le relevé note la présence en page d'accueil de la mention d'accessibilité, d'un lien « accessibilité », d'une déclaration d'accessibilité complétée et d'un schéma pluriannuel cité.</p><p>Résultats d'ensemble : 19 % des sites affichent la mention d'accessibilité, 51 % proposent un lien « accessibilité », 22 % publient une déclaration complétée, 10 % citent un schéma pluriannuel.</p><p>Les adresses des sites viennent de l'Annuaire de l'administration (DILA). Ce relevé porte sur les informations publiées. Ce n'est pas un audit de conformité RGAA.</p><p>Fichiers : effectifs agrégés par département et par classe de population, en CSV (séparateur point-virgule, UTF-8 avec BOM) et en JSON (avec dictionnaire des colonnes). Méthode et limites : https://claren.fr/barometre/donnees/#methode</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "accessibilité numérique",
+    "RGAA",
+    "collectivités territoriales",
+    "communes",
+    "déclaration d'accessibilité",
+    "web accessibility",
+    "France",
+    "open data"
+  ],
+  "related_identifiers": [
+    { "identifier": "https://claren.fr/barometre/", "relation": "isSupplementTo", "resource_type": "publication-other" },
+    { "identifier": "https://claren.fr/barometre/donnees/", "relation": "isDocumentedBy", "resource_type": "publication-other" }
+  ]
+}

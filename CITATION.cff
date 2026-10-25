@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Pour citer ce jeu de données, merci d'utiliser les métadonnées ci-dessous."
+type: dataset
+title: "Baromètre de l'accessibilité des sites des communes françaises de 2 000 habitants et plus (septembre 2026)"
+version: "2026-09"
+date-released: 2026-10-05
+authors:
+  - name: "Claren"
+license: CC-BY-4.0
+url: "https://claren.fr/barometre/"
+repository-code: "https://github.com/theodis44-eng/barometre-accessibilite-communes"
+keywords:
+  - accessibilité numérique
+  - RGAA
+  - communes
+  - open data
