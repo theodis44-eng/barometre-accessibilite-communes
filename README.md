@@ -29,4 +29,4 @@ base de données locales (DILA), jeu data.gouv.fr `53699fe4a3a729239d206227`, li
 
 ## Licence et citation
 
-CC BY 4.0. Citation : voir `CITATION.cff`. Lecture par département : https://claren.fr/barometre/
+CC BY 4.0. DOI : [10.5281/zenodo.23661041](https://doi.org/10.5281/zenodo.23661041). Citation : voir `CITATION.cff`. Lecture par département : https://claren.fr/barometre/
