@@ -27,6 +27,12 @@ Les mêmes fichiers sont servis par https://claren.fr/barometre/donnees/ (emprei
 https://claren.fr/barometre/donnees/#methode. Adresses des sites : Annuaire de l'administration,
 base de données locales (DILA), jeu data.gouv.fr `53699fe4a3a729239d206227`, licence ouverte.
 
+## Voir aussi
+
+Le Palmarès 2026 de la transparence sur l'accessibilité numérique des 100 plus grandes villes, contrôlé à la main le
+13 novembre 2026 : https://claren.fr/barometre/palmares/ (données ouvertes :
+https://www.data.gouv.fr/datasets/6af6c38e92d0c286e3905d58/).
+
 ## Licence et citation
 
 CC BY 4.0. DOI : [10.5281/zenodo.23661041](https://doi.org/10.5281/zenodo.23661041). Citation : voir `CITATION.cff`. Lecture par département : https://claren.fr/barometre/
