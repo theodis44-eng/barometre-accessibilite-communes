@@ -36,3 +36,5 @@ https://www.data.gouv.fr/datasets/6af6c38e92d0c286e3905d58/).
 ## Licence et citation
 
 CC BY 4.0. DOI : [10.5281/zenodo.23661041](https://doi.org/10.5281/zenodo.23661041). Citation : voir `CITATION.cff`. Lecture par département : https://claren.fr/barometre/
+- [Formations à l'accessibilité numérique](https://claren.fr/formation/)
+- [Claren Documents, gratuit](https://claren.fr/documents/)
